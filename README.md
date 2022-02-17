@@ -10,6 +10,7 @@ I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
 [![](./ico/get_next_line_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/get_next_line)
 [![](./ico/so_long_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/so_long)
 
+## My GitHub Stats 😁
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PILTRAFILLA317)](https://github.com/anuraghazra/github-readme-stats)
 
