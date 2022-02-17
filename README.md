@@ -1,9 +1,9 @@
 # 42cursus
 # Hi there, I'm Unai -aka [umartin-][website] 👋
 
-I’m currently studying in [42Urduliz][urduliz_website] 🔭
+I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
 
-## Finished Projects
+## Finished Projects 🚀
 
 [![](./ico/libft_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/libft)
 [![](./ico/ft_printf_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/ft_printf)
