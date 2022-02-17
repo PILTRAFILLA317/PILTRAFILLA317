@@ -7,7 +7,7 @@ I’m currently studying in [42Urduliz][urduliz_website] 🔭
 
 [![](./ico/libft_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/libft)
 [![](./ico/ft_printf_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/ft_printf)
-[![](./ico/grt_next_line_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/get_next_line)
+[![](./ico/get_next_line_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/get_next_line)
 [![](./ico/so_long_ico.png)](https://github.com/PILTRAFILLA317/42cursus/tree/main/so_long)
 
 
