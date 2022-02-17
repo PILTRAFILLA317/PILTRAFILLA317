@@ -1,4 +1,3 @@
-# 42cursus
 # Hi there, I'm Unai -aka [umartin-][website] 👋
 
 I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
