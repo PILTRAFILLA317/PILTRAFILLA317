@@ -12,7 +12,7 @@ I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
 
 ## My GitHub Stats 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PILTRAFILLA317&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PILTRAFILLA317&show_icons=true&theme=tokyonight)
 
 
 [website]: https://profile.intra.42.fr/users/umartin-
