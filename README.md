@@ -14,7 +14,7 @@ I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PILTRAFILLA317&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=PILTRAFILLA317)
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=PILTRAFILLA317&style=for-the-badge"></p>
 
 ## WARNING! 🚨🚫
 🇪🇸 Utiliza mis repositorios para comparar tu código o coger ideas, por favor no copies mi código sin aprender porque no te va a servir para nada.
