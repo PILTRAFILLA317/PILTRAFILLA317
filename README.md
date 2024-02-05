@@ -2,14 +2,6 @@
 
 I’m currently studying in [42Urduliz][urduliz_website] 🔭 🇪🇸
 
-## Finished Projects 🚀
-
-[![](./ico/libft_ico.png)](https://github.com/PILTRAFILLA317/libft)
-[![](./ico/ft_printf_ico.png)](https://github.com/PILTRAFILLA317/ft_printf)
-[![](./ico/get_next_line_ico.png)](https://github.com/PILTRAFILLA317/get_next_line)
-[![](./ico/so_long_ico.png)](https://github.com/PILTRAFILLA317/so_long)
-[![](./ico/push_swap_icon.png)](https://github.com/PILTRAFILLA317/push_swap)
-
 ## My GitHub Stats 😁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PILTRAFILLA317&show_icons=true&theme=tokyonight)
